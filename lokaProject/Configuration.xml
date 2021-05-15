@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Environment>
+  <TimeOut>10</TimeOut>
+  <BrowserType>firefox</BrowserType>
+  <URL>https://demo.nopcommerce.com/</URL>
+
+  <ReportFilePath>C:\Test\</ReportFilePath>
+  <ReportFileName>\report.html</ReportFileName>
+</Environment>

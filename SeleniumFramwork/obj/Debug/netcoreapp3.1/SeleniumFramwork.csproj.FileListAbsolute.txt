@@ -1,0 +1,4 @@
+/Users/doringber/Projects/lokaProject/SeleniumFramwork/obj/Debug/netcoreapp3.1/SeleniumFramwork.csprojAssemblyReference.cache
+/Users/doringber/Projects/lokaProject/SeleniumFramwork/obj/Debug/netcoreapp3.1/SeleniumFramwork.AssemblyInfoInputs.cache
+/Users/doringber/Projects/lokaProject/SeleniumFramwork/obj/Debug/netcoreapp3.1/SeleniumFramwork.AssemblyInfo.cs
+/Users/doringber/Projects/lokaProject/SeleniumFramwork/obj/Debug/netcoreapp3.1/SeleniumFramwork.csproj.CoreCompileInputs.cache

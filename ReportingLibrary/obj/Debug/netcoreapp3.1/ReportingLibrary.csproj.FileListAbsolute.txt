@@ -1,0 +1,8 @@
+/Users/doringber/Projects/lokaProject/ReportingLibrary/bin/Debug/netcoreapp3.1/ReportingLibrary.deps.json
+/Users/doringber/Projects/lokaProject/ReportingLibrary/bin/Debug/netcoreapp3.1/ReportingLibrary.dll
+/Users/doringber/Projects/lokaProject/ReportingLibrary/bin/Debug/netcoreapp3.1/ReportingLibrary.pdb
+/Users/doringber/Projects/lokaProject/ReportingLibrary/obj/Debug/netcoreapp3.1/ReportingLibrary.AssemblyInfoInputs.cache
+/Users/doringber/Projects/lokaProject/ReportingLibrary/obj/Debug/netcoreapp3.1/ReportingLibrary.AssemblyInfo.cs
+/Users/doringber/Projects/lokaProject/ReportingLibrary/obj/Debug/netcoreapp3.1/ReportingLibrary.csproj.CoreCompileInputs.cache
+/Users/doringber/Projects/lokaProject/ReportingLibrary/obj/Debug/netcoreapp3.1/ReportingLibrary.dll
+/Users/doringber/Projects/lokaProject/ReportingLibrary/obj/Debug/netcoreapp3.1/ReportingLibrary.pdb

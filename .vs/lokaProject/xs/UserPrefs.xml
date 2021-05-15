@@ -1,0 +1,63 @@
+﻿<Properties StartupConfiguration="{78C3E1FC-31D1-457B-9F56-BE812EF39709}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SeleniumFramwork/PageObject/Home.cs">
+    <Files>
+      <File FileName="SeleniumFramwork/PageAssmebly/Browsers.cs" Line="11" Column="6" />
+      <File FileName="SeleniumFramwork/PageAssmebly/Pages.cs" Line="8" Column="16" />
+      <File FileName="SeleniumFramwork/Pages/Computers.cs" Line="22" Column="67" />
+      <File FileName="SeleniumFramwork/Pages/Home.cs" Line="23" Column="21" />
+      <File FileName="SeleniumFramwork/Tests/MyFirstTest.cs" Line="11" Column="27" />
+      <File FileName="SeleniumFramwork/TestBase.cs" Line="24" Column="1" />
+      <File FileName="SeleniumFramwork/App.config" Line="4" Column="26" />
+      <File FileName="ReportingLibrary/ExtentReportsHelper.cs" Line="25" Column="1" />
+      <File FileName="SeleniumHelperLibrary/WebDiverExtensions.cs" Line="6" Column="1" />
+      <File FileName="SeleniumHelperLibrary/WebElementExtension.cs" Line="4" Column="1" />
+      <File FileName="SeleniumFramwork/PageObject/Computers.cs" Line="1" Column="1" />
+      <File FileName="SeleniumFramwork/PageObject/Home.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lokaProject" expanded="True">
+            <Node name="ReportingLibrary" expanded="True" />
+            <Node name="SeleniumFramwork" expanded="True">
+              <Node name="PageObject" expanded="True">
+                <Node name="Home.cs" selected="True" />
+              </Node>
+              <Node name="Pages" expanded="True" />
+            </Node>
+            <Node name="SeleniumHelperLibrary" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="lokaProject" expanded="True">
+            <Node name="SeleniumFramwork" expanded="True">
+              <Node name="Test" expanded="True">
+                <Node name="MyFirstTest" expanded="True">
+                  <Node name="NopCommerceDummyTest" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SeleniumFramwork PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/doringber/Projects/lokaProject/lokaProject/TestCases/Tests.cs" relfile="lokaProject/TestCases/Tests.cs" line="17" column="1" />
+      <Breakpoint file="/Users/doringber/Projects/lokaProject/SeleniumFramwork/Tests/MyFirstTest.cs" relfile="SeleniumFramwork/Tests/MyFirstTest.cs" line="11" column="1" />
+      <Breakpoint file="/Users/doringber/Projects/lokaProject/SeleniumFramwork/Tests/MyFirstTest.cs" relfile="SeleniumFramwork/Tests/MyFirstTest.cs" line="15" column="1" />
+      <Breakpoint file="/Users/doringber/Projects/lokaProject/SeleniumFramwork/TestBase.cs" relfile="SeleniumFramwork/TestBase.cs" line="18" column="1" />
+      <Breakpoint file="/Users/doringber/Projects/lokaProject/SeleniumFramwork/TestBase.cs" relfile="SeleniumFramwork/TestBase.cs" line="30" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

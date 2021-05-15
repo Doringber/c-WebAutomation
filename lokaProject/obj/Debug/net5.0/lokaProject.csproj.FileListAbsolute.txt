@@ -1,0 +1,5 @@
+/Users/doringber/Projects/lokaProject/lokaProject/obj/Debug/net5.0/lokaProject.csprojAssemblyReference.cache
+/Users/doringber/Projects/lokaProject/lokaProject/obj/Debug/net5.0/lokaProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/doringber/Projects/lokaProject/lokaProject/obj/Debug/net5.0/lokaProject.AssemblyInfoInputs.cache
+/Users/doringber/Projects/lokaProject/lokaProject/obj/Debug/net5.0/lokaProject.AssemblyInfo.cs
+/Users/doringber/Projects/lokaProject/lokaProject/obj/Debug/net5.0/lokaProject.csproj.CoreCompileInputs.cache
